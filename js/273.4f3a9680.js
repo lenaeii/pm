@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkim_app"]=self["webpackChunkim_app"]||[]).push([[273],{1273:function(r,e,n){n.r(e),n.d(e,{default:function(){return h}});var i=n(3396);const t={class:"container"},a=(0,i._)("iframe",{src:"https://lenaeii.github.io/docs/",width:"100%",height:"1000",frameborder:"0"},"\r\n        ",-1),c=[a];function s(r,e){return(0,i.wg)(),(0,i.iD)("div",t,c)}var u=n(89);const o={},f=(0,u.Z)(o,[["render",s]]);var h=f}}]);
+//# sourceMappingURL=273.4f3a9680.js.map
